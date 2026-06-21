@@ -9,18 +9,18 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
 ```
 
-### hey, i'm **Wani** 🐱✨
+### hey, i'm **Wani** <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f431.svg" width="18"/> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="18"/>
 *they/them · Ho Chi Minh City, VN*
 
-[![Discord](https://img.shields.io/badge/Discord-piozrxx.sbs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.piozrxx.sbs)
-[![Website](https://img.shields.io/badge/Website-piozrxx.sbs-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://piozrxx.sbs)
-[![Bot](https://img.shields.io/badge/Bot-bot.miuonu.xyz-00d2ff?style=flat-square&logo=robot-framework&logoColor=white)](https://bot.miuonu.xyz)
+[![Discord](https://img.shields.io/badge/Discord-discord.waniboostz.cc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.waniboostz.cc)
+[![Website](https://img.shields.io/badge/Website-zyo.lol%2Flwyw4nz-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://zyo.lol/lwyw4nz)
+[![Store](https://img.shields.io/badge/Store-store.waniboostz.cc-00d2ff?style=flat-square&logo=shopify&logoColor=white)](https://store.waniboostz.cc)
 
 </div>
 
 ---
 
-### 🐾 about me
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f43e.svg" width="20" align="center"/> about me
 
 ```yaml
 pronouns:   they/them
@@ -32,7 +32,7 @@ currently:  building stuff and vibing 🎵
 
 ---
 
-### 🛠️ stuff i work with
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="20" align="center"/> stuff i work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,37 +43,26 @@ currently:  building stuff and vibing 🎵
 
 ---
 
-### 📌 pinned projects
-
-| project | description | lang |
-|---------|-------------|------|
-| [Discord-T0ken-Checker](https://github.com/lampuoghini/Discord-T0ken-Checker) | check discord tokens fast ⚡ | Python |
-| [Minecraft-Checker](https://github.com/lampuoghini/Minecraft-Checker) | minecraft account checker 🎮 | Python |
-| [Sellauth-AIO-Bot](https://github.com/lampuoghini/Sellauth-AIO-Bot) | all-in-one sellauth bot 🤖 | JavaScript |
-| [karenisme](https://github.com/lampuoghini/karenisme) | ??? 👀 | — |
-
----
-
-### 📊 activity
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="20" align="center"/> activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lampuoghini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=00d2ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lwywa4niz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=00d2ff&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lampuoghini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwywa4niz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9)
 
 </div>
 
 ---
 
-### 📬 reach me
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ec.svg" width="20" align="center"/> reach me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mewzayyyvieb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mewzayyyvieb@gmail.com)
-[![Discord Server](https://img.shields.io/badge/Discord_Server-discord.piozrxx.sbs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.piozrxx.sbs)
-[![Bot](https://img.shields.io/badge/Bot-bot.miuonu.xyz-00d2ff?style=for-the-badge&logo=robot-framework&logoColor=white)](https://bot.miuonu.xyz)
-[![Shop](https://img.shields.io/badge/Shop-wanicream.mysellauth.com-ff6b9d?style=for-the-badge&logo=shopify&logoColor=white)](https://wanicream.mysellauth.com)
+[![Discord Server](https://img.shields.io/badge/Discord_Server-discord.waniboostz.cc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.waniboostz.cc)
+[![Telegram](https://img.shields.io/badge/Telegram-@swllette-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swllette)
+[![Store](https://img.shields.io/badge/Store-store.waniboostz.cc-ff6b9d?style=for-the-badge&logo=shopify&logoColor=white)](https://store.waniboostz.cc)
+[![Website](https://img.shields.io/badge/Website-zyo.lol%2Flwyw4nz-7076CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zyo.lol/lwyw4nz)
 
 </div>
 
@@ -81,14 +70,10 @@ currently:  building stuff and vibing 🎵
 
 <div align="center">
 
-*thanks for stopping by 🐱💕*
+*thanks for stopping by <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f431.svg" width="15"/> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f495.svg" width="15"/>*
 
 <br/>
 
-![snake animation](https://github.com/lampuoghini/lampuoghini/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lampuoghini.lampuoghini)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lwywa4niz.lwywa4niz)
 
 </div>
